@@ -1,4 +1,4 @@
-# freshmart
+# freshcart
 
 ✅ Adds products to the cart (saved in localStorage)
 ✅ Cart count updates dynamically
